@@ -1,0 +1,7 @@
+{
+    "name": "vts",
+    "version": "0.0.1",
+    "log": "花了两天时间，终于写好了 0.0.1 版本，初次见面，请多关照！Hi~ o(*￣▽￣*)ブ",
+    "description": "vts 是“Termux 应用商店”主程序的核心，你可以通过它安装、卸载、查看应用商店内的所有 Termux 软件。",
+    "author": "Veleven"
+}
